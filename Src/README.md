@@ -1,0 +1,1 @@
+Esta base de datos esta basada en el comercio de frutas  y realizare  mediante el método aggregate , una agrupación de más de un campo, varias operaciones en el project , dos match que sirven para realizar un filtrado de los documentos y un sort para ordenar los resultados de dicha búsqueda.
